@@ -1,0 +1,102 @@
+<!--index.wxml-->
+<view class='blue-group'>
+  <view class='top-group'>
+    <input placeholder-class='placeholder-input' placeholder='移动特权: 领流量'></input>
+    <view class='right-group'>
+      <image src='images/01.png'></image>
+      <image src='images/02.png'></image>
+    </view>
+  </view>
+
+  <view class='main-menu-group'>
+    <view class='main-menu'>
+      <image src='images/1.png'></image>
+      <text>扫一扫</text>
+    </view>
+    <view class='main-menu'>
+      <image src='images/2.png'></image>
+      <text>付钱</text>
+    </view>
+    <view class='main-menu'>
+      <image src='images/3.png'></image>
+      <text>收钱</text>
+    </view>
+    <view class='main-menu'>
+      <image src='images/4.png'></image>
+      <text>卡包</text>
+    </view>
+  </view>
+</view>
+
+<view class='white-group'>
+  <view class='white-item'>
+    <image src='images/5.png'></image>
+    <text>转账</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/6.png'></image>
+    <text>信用卡</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/7.png'></image>
+    <text>手机充值</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/8.png'></image>
+    <text>余额宝</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/9.png'></image>
+    <text>陶票票</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/10.png'></image>
+    <text>滴滴打车</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/11.png'></image>
+    <text>生活缴费</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/12.png'></image>
+    <text>芝麻信用</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/13.png'></image>
+    <text>火车票</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/14.png'></image>
+    <text>蚂蚁借呗</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/15.png'></image>
+    <text>高德打车</text>
+  </view>
+  <view class='white-item'>
+    <image src='images/16.png'></image>
+    <text>更多</text>
+  </view>
+</view>
+
+<view class='server-group'>
+  <image src='images/mayi.png'></image>
+  <view class='list-group'>
+    <view>
+      你有一张劵即将到期
+      <text>4小时前</text>
+    </view>
+    <view>
+      我去探险了
+      <text>1天前</text>
+    </view>
+  </view>
+  <view class='right-r'>
+  </view>
+</view>
+
+<view class='banner-group'>
+  <view class='banner-item'>
+    <image mode='widthFix' src='images/banner01.png'></image>
+  </view>
+</view>

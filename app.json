@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1b82d2",
+    "navigationBarTitleText": "支付宝首页",
+    "navigationBarTextStyle":"while"
+  }
+}
